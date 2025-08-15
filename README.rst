@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+UCT eResearch Documentation site
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repo contains all UCT eResearch services and infrastructure documentation.
 
-Read the tutorial here:
+For more information, please visit https://uct.ac.za/eresearch.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+The site was built on Read the Docs - https://docs.readthedocs.io/en/stable/tutorial/
