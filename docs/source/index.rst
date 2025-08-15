@@ -15,3 +15,15 @@ This documentation site includes guides on the following:
 
    This project is under active development.
 
+.. toctree::
+   :caption: High Performance Computing
+   :maxdepth: 1
+
+   hpc/hpc_account
+   hpc/hpc_login
+   
+.. toctree::
+   :caption: Research Data Storage
+   :maxdepth: 1
+
+   rds_access

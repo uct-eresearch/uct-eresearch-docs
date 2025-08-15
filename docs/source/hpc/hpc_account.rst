@@ -1,8 +1,6 @@
 UCT HPC
 =======
 
-.. _hpcaccount:
-
 Getting Access to the HPC
 -------------------------
 
