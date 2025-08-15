@@ -1,5 +1,5 @@
 UCT eResearch Documentation site
-=======================================
+================================
 
 This GitHub repo contains all UCT eResearch services and infrastructure documentation.
 
