@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+Welcome to the UCT eResearch Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+UCT eResearch is a distributed centre that promotes the use of advanced information technologies in 
+supporting innovative research practice and accelerating and transforming research throughout the research 
+lifecycle. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation site includes guides on the following:
+- UCT's centrally hosted HPC
+- The Research Data Store
+- XYZ
+
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
