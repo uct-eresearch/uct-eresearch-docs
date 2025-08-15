@@ -1,7 +1,7 @@
 UCT RDS
-=====
+=======
 
-.. _account:
+.. _rdsaccount:
 
 Getting Access to the RDS
 ------------

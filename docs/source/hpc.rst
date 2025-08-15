@@ -1,10 +1,10 @@
 UCT HPC
-=====
+=======
 
-.. _account:
+.. _hpcaccount:
 
 Getting Access to the HPC
-------------
+-------------------------
 
 1. You will need to have an active UCT staff or student account at UCT.  Third Party accounts are no longer permitted on the cluster.
 
@@ -22,7 +22,7 @@ Please note:
 5. To apply for an account you will need to login to the UCT ServiceNow portal. If you receive the message “You are either not authorized or record is not valid.” then please login to the ServiceNow portal by selecting the Login link, top right, and login with your UCT credentials.
 
 Requesting an Account
-----------------
+---------------------
 
 DO NOT CLICK ON THE LINK BELOW UNTIL YOU HAVE READ THE ABOVE TEXT
 IF YOU DO NOT FOLLOW THE INSTRUCTIONS YOU WILL NOT BE GRANTED AN ACCOUNT
